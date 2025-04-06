@@ -99,7 +99,9 @@ No pressure. Just a tap to try it out.
 ---
 
 ## 📸 Screenshots
-https://github.com/user-attachments/assets/995e2c13-13c4-482d-a6a7-c00ebdc34861
+
+https://github.com/user-attachments/assets/4e0d6bba-b7dc-4df9-b955-d4bc31fcdcb9
+
 
 
 
