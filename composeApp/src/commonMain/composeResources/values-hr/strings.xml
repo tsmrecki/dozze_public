@@ -1,0 +1,40 @@
+<resources>
+    <string name="prefill_onboarded">Isprobati Dozze</string>
+    <string name="prefill_confirm">Probaj</string>
+    <string name="prefill_success">isprobano!</string>
+
+    <string name="when_did_i_do_something">Kad sam šta?</string>"
+    <string name="now">Sad</string>
+    <string name="just_s">Upravo %1$s</string>
+    <string name="start_tracking">Što čekaš? Ajmo!</string>
+    <string name="confirm">Upravo jesam</string>
+    <string name="congrats">Čestitke!</string>
+    <plurals name="hours">
+        <string name="s_s_ago">Prije %1$s %2$s</string>
+        <string name="s_ago">Prije %1$s</string>
+        <item quantity="one">%1$d sata</item>
+        <item quantity="few">%1$d sata</item>
+        <item quantity="other">%1$d sati</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">%1$d minute</item>
+        <item quantity="few">%1$d minute</item>
+        <item quantity="other">%1$d minuta</item>
+    </plurals>
+
+    <string name="are_you_sure">Sigurno, sto posto?</string>
+    <string name="s_will_be_deleted">%1$s će biti obrisan, jad i tuga :(</string>
+    <string name="all_timers_will_be_reset">Svi timeri će biti resetirani ko da nikad nisu bili kliknuti. Jad i tuga :(</string>
+    <string name="oops_no">Uuups, nee!</string>
+    <string name="delete_it">Obriši odmah!</string>
+    <string name="reset_them">Resetiraj odmah!</string>
+    <string name="reset_all">Resetiraj sve</string>
+    <string name="delete">Obriši</string>
+
+    <string name="add_timer">Dodaj timer</string>
+    <string name="preview">Pregled</string>
+    <string name="confirm_action">Gumb za potvrdu</string>
+    <string name="success_action">Potvrda</string>
+    <string name="save">Spremi</string>
+    <string name="go_back">Idi nazad</string>
+</resources>

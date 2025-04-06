@@ -1,0 +1,8 @@
+build
+.idea
+.kotlin
+.gradle
+.konan
+.externalNativeBuild
+.cxx
+local.properties

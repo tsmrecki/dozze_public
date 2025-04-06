@@ -1,0 +1,42 @@
+<resources>
+    <string name="prefill_onboarded">Test Dozze magic</string>
+    <string name="prefill_confirm">Try me</string>
+    <string name="prefill_success">Tried the app!</string>
+    <string name="when_did_i_do_something">When did I what?</string>
+    <string name="just_now">Just now</string>
+    <string name="start_tracking">Still nothing? Let's go!</string>
+    <string name="confirm">Just did it</string>
+    <string name="congrats">Congrats!</string>
+    <string name="s_s_ago">%1$s %2$s ago</string>
+    <string name="s_ago">%1$s ago</string>
+    <plurals name="hours">
+        <item quantity="one">%1$d hour</item>
+        <item quantity="two">%1$d hours</item>
+        <item quantity="few">%1$d hours</item>
+        <item quantity="zero">%1$d hours</item>
+        <item quantity="other">%1$d hours</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">%1$d minute</item>
+        <item quantity="two">%1$d minutes</item>
+        <item quantity="few">%1$d minutes</item>
+        <item quantity="zero">%1$d minutes</item>
+        <item quantity="other">%1$d minutes</item>
+    </plurals>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="s_will_be_deleted">%1$s will be deleted, so sad :(</string>
+    <string name="all_timers_will_be_reset">All timers will be reset as you have never clicked on them. So sad :(</string>
+    <string name="oops_no">Oopsie, no</string>
+    <string name="delete_it">Just delete it!</string>
+    <string name="reset_them">Just reset them!</string>
+    <string name="reset_all">Reset all</string>
+    <string name="delete">Delete</string>
+
+    <string name="add_timer">Add timer</string>
+    <string name="preview">Preview</string>
+    <string name="name">Name</string>
+    <string name="confirm_action">Confirm button</string>
+    <string name="success_action">Confirmed info</string>
+    <string name="save">Save</string>
+    <string name="go_back">Go back</string>
+</resources>
